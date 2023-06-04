@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/动手学BERT_T5_GPT/02_Transformers/distilbert-base-uncased_emotion_ft_0416" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/动手学BERT_T5_GPT/02_Transformers/distilbert-base-uncased_emotion_ft_0529" vcs="Git" />
   </component>
 </project>
