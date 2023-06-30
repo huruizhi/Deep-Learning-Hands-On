@@ -1,0 +1,12 @@
+2023-06-10 22:30:47 | INFO | gradio_web_server | args: Namespace(host='0.0.0.0', port=None, controller_url='http://localhost:21001', concurrency_count=10, model_list_mode='once', share=False, moderate=False, add_chatgpt=False, add_claude=False, add_bard=False)
+2023-06-10 22:30:47 | INFO | gradio_web_server | Models: ['chatglm-6b']
+2023-06-10 22:30:48 | INFO | stdout | Running on local URL:  http://0.0.0.0:7860
+2023-06-10 22:30:48 | INFO | stdout | 
+2023-06-10 22:30:48 | INFO | stdout | To create a public link, set `share=True` in `launch()`.
+2023-06-10 22:30:51 | INFO | gradio_web_server | load_demo. ip: 192.168.101.2. params: {}
+2023-06-10 22:31:00 | INFO | gradio_web_server | add_text. ip: 192.168.101.2. len: 4
+2023-06-10 22:31:00 | INFO | gradio_web_server | http_bot. ip: 192.168.101.2
+2023-06-10 22:31:00 | INFO | gradio_web_server | model_name: chatglm-6b, worker_addr: http://localhost:21002
+2023-06-10 22:31:00 | INFO | gradio_web_server | ==== request ====
+{'model': 'chatglm-6b', 'prompt': [['Human', '你是谁？'], ['Assistant', None]], 'temperature': 0.7, 'repetition_penalty': 1.0, 'top_p': 1.0, 'max_new_tokens': 512, 'stop': '###', 'stop_token_ids': None, 'echo': False}
+2023-06-10 22:31:01 | INFO | gradio_web_server | 我是一个被称为 ChatGLM-6B 的人工智能助手，是基于清华大学 KEG 实验室和智谱 AI 公司于 2023 年共同训练的语言模型开发的。我的任务是针对用户的问题和要求提供适当的答复和支持。
