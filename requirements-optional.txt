@@ -1,0 +1,13 @@
+# Optional stack for specific notebooks (install on demand)
+d2l==1.0.3
+trl==0.27.2
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-openai==0.2.14
+openai==1.109.1
+faiss-cpu==1.12.0
+networkx==3.6.1
+pyvis==0.3.2
+pinecone-client==5.0.1
+bertviz==1.4.1
+wandb==0.24.2

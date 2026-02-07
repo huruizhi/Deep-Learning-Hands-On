@@ -1,0 +1,24 @@
+# Base stack (recommended default install)
+jupyterlab==4.5.3
+notebook==7.5.3
+ipykernel==6.31.0
+
+numpy==2.3.3
+pandas==2.3.3
+matplotlib==3.10.8
+scikit-learn==1.8.0
+tqdm==4.67.3
+
+torch==2.10.0
+torchvision==0.25.0
+torchaudio==2.10.0
+
+transformers==4.57.6
+datasets==2.21.0
+evaluate==0.4.6
+huggingface-hub==0.36.2
+accelerate==0.34.2
+peft==0.18.1
+safetensors==0.7.0
+sentencepiece==0.2.1
+protobuf==5.29.6
