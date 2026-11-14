@@ -1,0 +1,8 @@
+# Clef-specific environment; separate from the repository's Transformers 4.x stack.
+torch==2.11.0
+transformers==5.10.2
+accelerate==1.15.0
+huggingface-hub==1.33.0
+pillow==13.0.0
+jupyterlab==4.5.3
+ipykernel==7.4.0

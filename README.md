@@ -11,6 +11,7 @@
 - [05_GLM_p-tuning](./05_GLM_p-tuning): ChatGLM 与 p-tuning 探索
 - [06_Langchain实战](./06_Langchain实战): LangChain、向量检索、知识图谱
 - [07-提示词工程](./07-提示词工程): 提示词工程实践
+- [08_Clef模型研究](./08_Clef模型研究/01_Clef模型结构.ipynb): Cloudflare Clef 完整结构、决策头与参数量（默认不下载权重；独立环境见 Notebook）
 - [深度学习汇报.ipynb](./深度学习汇报.ipynb): 汇总型学习笔记
 
 ## 环境要求
